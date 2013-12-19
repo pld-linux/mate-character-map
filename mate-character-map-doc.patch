@@ -1,0 +1,9 @@
+--- mate-character-map-1.6.0/docs/reference/mucharmap-docs.sgml.orig	2013-04-02 23:15:04.000000000 +0200
++++ mate-character-map-1.6.0/docs/reference/mucharmap-docs.sgml	2013-12-18 20:32:21.125941083 +0100
+@@ -22,6 +22,5 @@
+     <xi:include href="xml/mucharmap-chapters-view.xml"/>
+     <xi:include href="xml/mucharmap-charmap.xml"/>
+     <xi:include href="xml/mucharmap-unicode-info.xml"/>
+-    <xi:include href="xml/mucharmap.xml"/>
+   </chapter>
+ </book>
