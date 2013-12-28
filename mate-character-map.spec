@@ -33,7 +33,7 @@ BuildRequires:	mate-doc-utils >= 0.9.0
 BuildRequires:	pkgconfig
 %{!?with_gtk3:BuildRequires:	python-devel >= 1:2.4}
 %{!?with_gtk3:BuildRequires:	python-pygtk-devel >= 2:2.7.1}
-BuildRequires:	rpmbuild(find_lang) >= 1.23
+BuildRequires:	rpmbuild(find_lang) >= 1.36
 BuildRequires:	rpmbuild(macros) >= 1.311
 BuildRequires:	tar >= 1:1.22
 BuildRequires:	xz
